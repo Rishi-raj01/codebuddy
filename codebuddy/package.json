@@ -14,8 +14,8 @@
   "contributes": {
     "commands": [
       {
-        "command": "codebuddy.helloWorld",
-        "title": "Hello World"
+        "command": "extension.getAIPoweredBotResponse",
+        "title": "Get Ai-Powered Response"
       }
     ]
   },
